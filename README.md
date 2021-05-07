@@ -5,5 +5,7 @@ My first project in which I created website for my school that is Kendriya Vidiy
 # Requirement
 
 PYTHON 3
+
 Django module
+
 Pillow module
